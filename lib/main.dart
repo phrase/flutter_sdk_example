@@ -70,7 +70,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 .textWithDate(DateTime.utc(1996, 7, 10))),
             Text(
               AppLocalizations.of(context).textPlural(_counter),
-              style: Theme.of(context).textTheme.headline4,
+              style: Theme.of(context).textTheme.headlineMedium,
             ),
             const SizedBox(height: 30),
             Row(
