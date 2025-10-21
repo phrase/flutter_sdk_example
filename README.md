@@ -6,7 +6,7 @@ Flutter demo application to see Phrase OTA in action
 
 - Clone this project
 - Run `flutter pub get` to get the dependencies
-- Run `flutter pub run phrase` to perform necessary code generation
+- Run `dart run phrase` to perform necessary code generation
 - Create new translation project on https://phrase.com/
 - Upload ARB files for translation
 - Create the OTA distribution

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
-import 'package:flutter_gen/gen_l10n/phrase_localizations.dart';
+import 'package:flutter_sdk_example/l10n/gen/app_localizations.dart';
+import 'package:flutter_sdk_example/l10n/gen/phrase_localizations.dart';
 import 'package:phrase/phrase.dart';
 
 void main() {
