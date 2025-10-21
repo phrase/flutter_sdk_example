@@ -473,10 +473,10 @@ packages:
     dependency: "direct main"
     description:
       name: phrase
-      sha256: cc14b30709fc282f2deeb0a2536c5058f89aa8b8f485263af0912f341fd132f6
+      sha256: c3a8000a187c8f7607cb40f4b4a1afe71fbff6c06de72f4698e8b69e60d7b864
       url: "https://pub.dev"
     source: hosted
-    version: "2.5.3"
+    version: "2.5.4"
   platform:
     dependency: transitive
     description:
